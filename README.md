@@ -1,2 +1,3 @@
 # dchp-on-docker
-DHCP on Docker containter
+Esto es un servidor DHCP dentro de un contenedor de docker
+
