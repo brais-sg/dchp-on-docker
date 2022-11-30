@@ -1,0 +1,9 @@
+services:
+  asir_dhcp_docker:
+    container_name: asir_dhcp
+    image: networkboot/dhcpd
+    network_mode: host
+    ports:
+      - 67/udp
+    volumes:
+      - ./dhcpd:/data
