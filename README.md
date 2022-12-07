@@ -1,4 +1,4 @@
-# dchp-on-docker
+# dhcp-on-docker
 Esto es un servidor DHCP dentro de un contenedor de docker
 
 Para configurar el DHCP debemos editar el ```fichero dhcpd.conf```
